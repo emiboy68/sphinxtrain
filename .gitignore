@@ -1,0 +1,9 @@
+*.pdb
+*.db
+*.db-*
+*.lib
+*.obj
+*.log
+*.tlog
+*.suo
+*.vcxproj
